@@ -1,7 +1,7 @@
 play-app
 ========
 
-Playing around with play framework. Just for fun.
+web app on top of play framework Edit
 
 This is Play 2.1 application.
 
